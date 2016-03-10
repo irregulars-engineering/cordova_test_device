@@ -13,8 +13,8 @@
    height="400"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="irregulars_engineering_logo_white_b.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="irregulars_engineering_logo.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="39.56847"
+     inkscape:cx="174.39299"
      inkscape:cy="174.56521"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,45 +52,40 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-652.36218)">
-    <g
-       id="g2997"
-       transform="translate(8.5,-8.0000026)"
-       style="fill:#003459;fill-opacity:1">
-      <rect
-         y="700.36218"
-         x="32"
-         height="50"
-         width="50"
-         id="rect2985"
-         style="fill:#003459;fill-opacity:1" />
-      <rect
-         y="770.36218"
-         x="32"
-         height="250"
-         width="50"
-         id="rect2987"
-         style="fill:#003459;fill-opacity:1" />
-      <rect
-         y="700.36218"
-         x="101"
-         height="50"
-         width="250"
-         id="rect2991"
-         style="fill:#003459;fill-opacity:1" />
-      <rect
-         y="827.36218"
-         x="101"
-         height="50"
-         width="250"
-         id="rect2993"
-         style="fill:#003459;fill-opacity:1" />
-      <rect
-         y="970.36218"
-         x="101"
-         height="50"
-         width="250"
-         id="rect2995"
-         style="fill:#003459;fill-opacity:1" />
-    </g>
+    <rect
+       style="fill:#003459;fill-opacity:1"
+       id="rect2985"
+       width="50"
+       height="50"
+       x="40.5"
+       y="692.36218" />
+    <rect
+       style="fill:#003459;fill-opacity:1"
+       id="rect2987"
+       width="50"
+       height="250"
+       x="40.5"
+       y="762.36218" />
+    <rect
+       style="fill:#003459;fill-opacity:1"
+       id="rect2991"
+       width="250"
+       height="50"
+       x="109.5"
+       y="692.36218" />
+    <rect
+       style="fill:#003459;fill-opacity:1"
+       id="rect2993"
+       width="250"
+       height="50"
+       x="109.5"
+       y="827.36218" />
+    <rect
+       style="fill:#003459;fill-opacity:1"
+       id="rect2995"
+       width="250"
+       height="50"
+       x="109.5"
+       y="962.36218" />
   </g>
 </svg>
